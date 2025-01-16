@@ -37,46 +37,37 @@ Add Transaction Details:
 <img width="960" alt="Screenshot 2025-01-16 184536" src="https://github.com/user-attachments/assets/5372d2a0-5518-4004-a2bd-6c6ea9ae508d" />
 
 Transaction Categorization Options:
-
+<img width="960" alt="Screenshot 2025-01-16 185723" src="https://github.com/user-attachments/assets/ba9a26d7-8d00-4a1b-937b-924358baa25f" />
 
 Add First Transaction:
 <img width="960" alt="Screenshot 2025-01-16 184618" src="https://github.com/user-attachments/assets/453036ef-1f94-4b1c-b0c5-6d115f907270" />
 
-
 Success Confirmation:
 <img width="960" alt="Screenshot 2025-01-16 184633" src="https://github.com/user-attachments/assets/a97180f1-5d76-4a64-a41d-280b2daa0e6f" />
-
 
 Add Second Transaction:
 <img width="960" alt="Screenshot 2025-01-16 184713" src="https://github.com/user-attachments/assets/2c015707-3f3d-4194-858e-56778b1b9b21" />
 
-
 Add Third Transaction:
 <img width="960" alt="Screenshot 2025-01-16 184813" src="https://github.com/user-attachments/assets/f73087f2-a045-4433-866d-846cc30e5329" />
-
 
 Expense Calculation and Dynamic List:
 <img width="960" alt="Screenshot 2025-01-16 184848" src="https://github.com/user-attachments/assets/85feb67a-48cd-4eef-bd4f-403485c9831f" />
 
-
 Update Transaction:
 <img width="960" alt="Screenshot 2025-01-16 184927" src="https://github.com/user-attachments/assets/b6d747ad-58b8-4e40-80b7-78e4e712d0ff" />
-
 
 Updated Transaction Confirmation:
 <img width="960" alt="Screenshot 2025-01-16 184938" src="https://github.com/user-attachments/assets/7c662edf-f1af-4348-8fe0-6981f41fd44a" />
 
-
 Updated Expense Calculation and Dynamic List:
 <img width="960" alt="Screenshot 2025-01-16 184956" src="https://github.com/user-attachments/assets/4d421481-f2e7-46a9-a562-f565150e15f7" />
-
 
 Delete Transaction:
 <img width="960" alt="Screenshot 2025-01-16 185015" src="https://github.com/user-attachments/assets/83be1b21-d284-487c-9e0c-d4b16d059649" />
 
 Deleted Transaction Confirmation:
 <img width="960" alt="Screenshot 2025-01-16 185027" src="https://github.com/user-attachments/assets/7a5a248e-f689-4249-afad-7e9e0320fdae" />
-
 
 Final Updated Expense Calculation and Dynamic List:
 <img width="960" alt="Screenshot 2025-01-16 185038" src="https://github.com/user-attachments/assets/133c9b71-be60-4579-8e5f-547da6d1329c" />
