@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Expense Tracker</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <link rel="stylesheet" href="./Resources/css/index.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center mt-5">Expense Tracker</h1>
+
+      <div class="header d-flex justify-content-center align-items-center">
+        <img src="./Resources/image/image1.webp" id="centerImage" />
+      </div>
+
+      <h3 class="text-center mt-3">Your Balance</h3>
+      <h3 class="balance text-center">₹100</h3>
+      <hr />
+      <div class="d-flex flex-column justify-content-center align-items-center">
+        <div class="w-50 d-flex justify-content-between align-items-center">
+          <h4>Income</h4>
+          <h4>Expense</h4>
+        </div>
+        <div class="w-50 d-flex justify-content-between align-items-center">
+          <h4 class="text-success income">₹110</h4>
+          <h4 class="text-danger expense">₹10</h4>
+        </div>
+      </div>
+      <hr />
+      <div class="d-flex flex-column justify-content-center align-items-center">
+        <h3>History</h3>
+        <div class="w-75 mt-3 table-responsive">
+          <table class="table table-striped text-center" id="tstyle">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Title</th>
+                <th>Category</th>
+                <th>Amount</th>
+                <th>Transaction</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody class="t-list"></tbody>
+          </table>
+        </div>
+      </div>
+      <button
+        data-bs-toggle="modal"
+        data-bs-target="#myModal"
+        class="btn modal-btn bg-primary text-white rounded-square position-fixed end-0 bottom-0"
+        style="margin: 20px"
+      >
+        <i class="fa fa-plus"></i> Add Transaction
+      </button>
+    </div>
+    <div class="modal" id="myModal">
+      <div
+        class="animate__animated animate__zoomIn modal-dialog modal-dialog-centered"
+      >
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title">Transaction Details</h3>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <form class="t-form">
+              <select class="form-select mb-3" id="transctype">
+                <option value="transaction" hidden>Transaction Type</option>
+                <option value="income">Income</option>
+                <option value="expense">Expense</option>
+              </select>
+
+              <input
+                required
+                type="date"
+                placeholder="Date"
+                class="form-control mb-3"
+              />
+              <input
+                required
+                type="text"
+                placeholder="Description"
+                class="form-control mb-3"
+              />
+
+              <select class="form-select mb-3" id="category">
+                <option hidden>Category</option>
+                <option>Food</option>
+                <option>Transport</option>
+                <option>Entertainment</option>
+                <option>Groceries</option>
+                <option>Household</option>
+                <option>Electricity</option>
+                <option>Stationery</option>
+                <option>Shopping</option>
+                <option>Bills and Utilities</option>
+                <option>Medicines</option>
+                <option>Festivals</option>
+                <option>Salary</option>
+                <option>Interest Income</option>
+                <option>Misc</option>
+              </select>
+
+              <input
+                required
+                type="number"
+                placeholder="Amount"
+                class="form-control mb-3"
+              />
+
+              <button type="submit" class="btn btn-primary text-white w-100">
+                Submit
+              </button>
+
+              <button
+                type="button"
+                class="d-none btn btn-danger text-white w-100"
+              >
+                Update
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./Resources/javascript/index.js"></script>
+  </body>
+</html>
