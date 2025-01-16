@@ -31,46 +31,56 @@ The app workflow follows these steps:
 Below are some snapshots of the application:
 
 Home Page:
-<img width="959" alt="Screenshot 2025-01-15 231339" src="https://github.com/user-attachments/assets/1d7db7f7-3677-4f69-87e9-c07075eb20a7" />
+<img width="960" alt="Screenshot 2025-01-16 185131" src="https://github.com/user-attachments/assets/dc61cb4d-ee84-4687-b2a4-13efbb6b7a72" />
 
 Add Transaction Details:
-<img width="960" alt="Screenshot 2025-01-15 231355" src="https://github.com/user-attachments/assets/89a7aed2-4b59-4060-b658-5d01c29a7008" />
+<img width="960" alt="Screenshot 2025-01-16 184536" src="https://github.com/user-attachments/assets/5372d2a0-5518-4004-a2bd-6c6ea9ae508d" />
 
 Transaction Categorization Options:
-<img width="960" alt="Screenshot 2025-01-15 231438" src="https://github.com/user-attachments/assets/e99a7312-fb12-440b-8e42-470e4b75bf5c" />
+
 
 Add First Transaction:
-<img width="960" alt="Screenshot 2025-01-15 231509" src="https://github.com/user-attachments/assets/bc724384-1292-457b-a6d8-d28e37201f14" />
+<img width="960" alt="Screenshot 2025-01-16 184618" src="https://github.com/user-attachments/assets/453036ef-1f94-4b1c-b0c5-6d115f907270" />
+
 
 Success Confirmation:
-<img width="960" alt="Screenshot 2025-01-15 231521" src="https://github.com/user-attachments/assets/7b3f1a6a-d42a-4abf-87b4-5aef4fafe413" />
+<img width="960" alt="Screenshot 2025-01-16 184633" src="https://github.com/user-attachments/assets/a97180f1-5d76-4a64-a41d-280b2daa0e6f" />
+
 
 Add Second Transaction:
-<img width="960" alt="Screenshot 2025-01-15 231617" src="https://github.com/user-attachments/assets/69ba4927-4cc8-49f7-bcf3-90f4fc04e0a6" />
+<img width="960" alt="Screenshot 2025-01-16 184713" src="https://github.com/user-attachments/assets/2c015707-3f3d-4194-858e-56778b1b9b21" />
+
 
 Add Third Transaction:
-<img width="960" alt="Screenshot 2025-01-15 231712" src="https://github.com/user-attachments/assets/541cc4a2-4949-414c-93ec-4294ded71d01" />
+<img width="960" alt="Screenshot 2025-01-16 184813" src="https://github.com/user-attachments/assets/f73087f2-a045-4433-866d-846cc30e5329" />
+
 
 Expense Calculation and Dynamic List:
-<img width="960" alt="Screenshot 2025-01-15 231733" src="https://github.com/user-attachments/assets/647c7dac-dc9a-4ae5-a567-3622673f74a8" />
+<img width="960" alt="Screenshot 2025-01-16 184848" src="https://github.com/user-attachments/assets/85feb67a-48cd-4eef-bd4f-403485c9831f" />
+
 
 Update Transaction:
-<img width="960" alt="Screenshot 2025-01-15 231803" src="https://github.com/user-attachments/assets/64371290-4432-44cf-ae4e-b525d6971a29" />
+<img width="960" alt="Screenshot 2025-01-16 184927" src="https://github.com/user-attachments/assets/b6d747ad-58b8-4e40-80b7-78e4e712d0ff" />
+
 
 Updated Transaction Confirmation:
-<img width="960" alt="Screenshot 2025-01-15 231814" src="https://github.com/user-attachments/assets/259e6f9b-d4cc-46f9-a8c2-2f5127643b8c" />
+<img width="960" alt="Screenshot 2025-01-16 184938" src="https://github.com/user-attachments/assets/7c662edf-f1af-4348-8fe0-6981f41fd44a" />
+
 
 Updated Expense Calculation and Dynamic List:
-<img width="960" alt="Screenshot 2025-01-15 231834" src="https://github.com/user-attachments/assets/e57414a9-6b6b-454c-a532-85bdf93571bb" />
+<img width="960" alt="Screenshot 2025-01-16 184956" src="https://github.com/user-attachments/assets/4d421481-f2e7-46a9-a562-f565150e15f7" />
+
 
 Delete Transaction:
-<img width="960" alt="Screenshot 2025-01-15 231857" src="https://github.com/user-attachments/assets/879c92c4-3b51-4d63-b7ff-c5013a4701f8" />
+<img width="960" alt="Screenshot 2025-01-16 185015" src="https://github.com/user-attachments/assets/83be1b21-d284-487c-9e0c-d4b16d059649" />
 
 Deleted Transaction Confirmation:
-<img width="960" alt="Screenshot 2025-01-15 231908" src="https://github.com/user-attachments/assets/5930080b-54d4-49d8-9514-70bb0fa6a13b" />
+<img width="960" alt="Screenshot 2025-01-16 185027" src="https://github.com/user-attachments/assets/7a5a248e-f689-4249-afad-7e9e0320fdae" />
+
 
 Final Updated Expense Calculation and Dynamic List:
-<img width="960" alt="Screenshot 2025-01-15 231921" src="https://github.com/user-attachments/assets/a90cb0a5-668a-46d6-a39a-7467e646d756" />
+<img width="960" alt="Screenshot 2025-01-16 185038" src="https://github.com/user-attachments/assets/133c9b71-be60-4579-8e5f-547da6d1329c" />
+
 
 ## Responsiveness
 The app is responsive, meaning it functions well on both desktop and mobile devices.
