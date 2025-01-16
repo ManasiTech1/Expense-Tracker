@@ -12,7 +12,7 @@ The frontend of the app consists of three primary components:
 - JavaScript:
   - Adding Transactions: Processes user inputs and stores them temporarily in memory.
   - Displaying Transactions: Dynamically updates the page to show the added transaction.
-  - Calculations: Calculates total income and expenses separately and displays the net income (total income - total expenses).
+  - Calculations: Calculates total income and expenses separately and displays the net income (total income - total expense).
   - Validation: Implements basic input validation to ensure users enter valid data and provides error messages for incorrect or incomplete inputs.
   - Edit or Delete: Allows users to edit or delete individual transactions.
   - Local Storage: Optionally persists data across sessions using localStorage.
